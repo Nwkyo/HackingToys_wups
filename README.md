@@ -32,7 +32,7 @@
 
 # 功能测试
 
-访问'https://xx.xx.xx.xx:3000',会进入如下网页，网页提供了hacker的硬件推荐，例如Filpper Zero啥的
+访问 https://xx.xx.xx.xx:3000 会进入如下网页，网页提供了hacker的硬件推荐，例如Filpper Zero啥的
 ![Pasted image 20240913144903](https://github.com/user-attachments/assets/1a1caa98-6625-4b90-90a2-1a7d2f6e4bf0)
 
 我们随意点击一个超链接，如图所示
